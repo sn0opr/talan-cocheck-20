@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://197.3.0.225:20443/cocheck20/ios/logo.png</string>
+					<string>https://github.com/sn0opr/talan-cocheck-20/raw/master/logo.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://197.3.0.225:20443/cocheck20/ios/logo_big.png</string>
+					<string>https://github.com/sn0opr/talan-cocheck-20/raw/master/logo_big.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
