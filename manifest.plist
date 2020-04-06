@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://197.3.0.225:20443/cocheck20/ios/TalanCoCheck20.ipa</string>
+					<string>https://github.com/sn0opr/talan-cocheck-20/raw/master/CoCheck20.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
