@@ -7,11 +7,11 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://197.3.0.225:20443/cocheck20/ios/TalanCoCheck20.ipa</string>
+		<string>https://github.com/sn0opr/talan-cocheck-20/raw/master/CoCheck20.ipa</string>
 		<key>displayImageURL</key>
-		<string>https://197.3.0.225:20443/cocheck20/ios/logo.png</string>
+		<string>https://github.com/sn0opr/talan-cocheck-20/raw/master/logo.png</string>
 		<key>fullSizeImageURL</key>
-		<string>https://197.3.0.225:20443/cocheck20/ios/logo_big.png</string>
+		<string>https://github.com/sn0opr/talan-cocheck-20/raw/master/logo_big.png</string>
 	</dict>
 	<key>method</key>
 	<string>enterprise</string>
